@@ -19,7 +19,7 @@
    ### Login to your AWS Account 
    
    1) Click on the Event Engine URL that is provided by your moderators
-   2) One person on your team should perform the following to set your team name:
+   2) Perform the following to set your "team" name:
       * click **Set Team Name** and enter a Team Name (Be Creative!)
       * click **Set Team Name** green button on the bottom left to confirm
       
