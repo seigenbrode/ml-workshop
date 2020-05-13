@@ -82,8 +82,8 @@
  From within the notebook instance we created in Lab Setup above:
  
    1) Go to the **Files** tab
-   2) Click **sagemaker-workshop**
-   3) Click **Lab3-Hosting-Evaluuation.ipynb** to open Lab 3
+   2) Click **ml-workshop**
+   3) Click **02-Amazon-Comprehend-Custom-Entities.ipynb** to open Lab 3
    4) The remaining steps for this lab are performed within the notebook instance
        
 
