@@ -35,11 +35,13 @@
    5) Under *Notebook Instance Settings*, complete/update the following:
        * **Notebook instance name:** Enter a name for the notebook instance (Ex: ml-workshop-janedoe)
        * **Notebook instance type:** ml.t3.large
+       ![Setup1](./images/Setup-1.png)
    6) Under *Permissions and encryption*, complete/update the following:
        * **IAM Role:** Create a new role --> Select 'any S3 bucket' --> Create Role
    7) Under *Git Repositories*:
        * select 'Clone a public git repository to this notebook instance only' from the dropdown
        * Enter 'https://github.com/seigenbrode/ml-workshop' under *Git Repository URL*
+       ![Setup2](./images/Setup-2.png)
    8) Leave all other sections using default settings, then click **Create notebook instance**
    9) It will take a few moments for the **Status** to change to **InService**
    10) Once the notebook is showing **InService**, click the **Open Jupyter** link to open your hosted notebook instance
